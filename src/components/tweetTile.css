@@ -1,6 +1,6 @@
 .tweet-tile-container{
   height:140px;
-  width: 100px;
-  background-color: white;
+  width: 500px;
+  background-color: blue;
   display: flex;
 }
