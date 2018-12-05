@@ -1,0 +1,15 @@
+.profile-tile-container{
+  height:350px;
+  width: 350px;
+  background-color: green;
+  /* display: flex; */
+}
+
+.profile-pic{
+  height:100px;
+  width:100px;
+  background-color: pink;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+}

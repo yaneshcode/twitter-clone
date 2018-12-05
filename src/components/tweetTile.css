@@ -1,6 +1,10 @@
 .tweet-tile-container{
+  padding: 10px;
   height:140px;
   width: 500px;
   background-color: blue;
   display: flex;
+  border-style: solid;
+  border-color: black;
+  margin: 10px;
 }
